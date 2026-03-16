@@ -1,4 +1,4 @@
-# 👋 Hello, I'm RIP-My-Skill | Java Developer
+# 👋 Hello, I'm Ki-sd | Java Developer
 
 ### 🚀 About Me
 * 🎓 **Current**: 자바/AWS 풀스택 개발자 부트캠프 수강 중 (2026.02 ~ )
@@ -47,4 +47,4 @@
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=RIP-My-Skill&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ki-sd&show_icons=true&theme=tokyonight)
