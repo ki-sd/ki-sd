@@ -29,7 +29,7 @@
 ---
 
 ### 📂 Featured Project
-#### 🏨 [Hotel Management Tool](https://github.com/RIP-My-Skill/Hotel_Test)
+#### 🏨 [Hotel Management Tool](https://github.com/Ki-sd/Hotel_Test)
 > **Java 기반 객체지향 호텔 예약 관리 시스템**
 * **Key Achievements**:
     - Jackson 라이브러리를 활용한 JSON 기반 데이터 영속성 확보
