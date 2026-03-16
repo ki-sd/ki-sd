@@ -46,5 +46,10 @@
 
 ---
 
+### 🚀 Recent Learning & Troubleshooting
+* **인코딩 트러블슈팅 (Java/Gradle)**: Windows 환경의 한글 깨짐 문제를 해결하는 과정에서 **'시스템 전체 설정 변경'의 위험성**을 인지하고, 프로젝트 내부 설정 및 코드 수정을 통해 타 소프트웨어에 영향을 주지 않는 **근본적인 환경 독립적 해결 방안**을 도출함.
+
+---
+
 ### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ki-sd&show_icons=true&theme=tokyonight)
