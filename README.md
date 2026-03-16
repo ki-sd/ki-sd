@@ -1,4 +1,4 @@
-# 👋 Hello, I'm Ki-sd | Java Developer
+# 👋 Hello, I'm ki-sd | Java Developer
 
 ### 🚀 About Me
 * 🎓 **Current**: 자바/AWS 풀스택 개발자 부트캠프 수강 중 (2026.02 ~ )
@@ -29,7 +29,7 @@
 ---
 
 ### 📂 Featured Project
-#### 🏨 [Hotel Management Tool](https://github.com/Ki-sd/Hotel_Test)
+#### 🏨 [Hotel Management Tool](https://github.com/ki-sd/Hotel_Test)
 > **Java 기반 객체지향 호텔 예약 관리 시스템**
 * **Key Achievements**:
     - Jackson 라이브러리를 활용한 JSON 기반 데이터 영속성 확보
@@ -47,4 +47,4 @@
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=Ki-sd&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ki-sd&show_icons=true&theme=tokyonight)
