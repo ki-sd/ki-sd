@@ -1,7 +1,7 @@
 # 👋 Hello, I'm ki-sd | Java Developer
 
 ### 🚀 About Me
-* 🎓 **Current**: 자바/AWS 풀스택 개발자 부트캠프 수강 중 (2026.02 ~ )
+* 🎓 **Current**: 자바/AWS 풀스택 개발자 부트캠프 수강 중 (2026.03 ~ )
 * 🎯 **Goal**: 견고한 백엔드 설계 능력을 바탕으로, 복잡한 비즈니스 문제를 기술로 해결하는 시니어 개발자로 성장하는 것을 목표로 합니다.
 * ✍️ **Language**: <img src="https://flagcdn.com/w20/jp.png" width="15"> JLPT N2 (2019) 보유 및 N1 준비 중
 
