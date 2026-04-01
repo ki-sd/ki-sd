@@ -52,4 +52,4 @@
 ---
 
 ### 📊 GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ki-sd&show_icons=true&theme=tokyonight)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=ki-sd&show_icons=true&theme=tokyonight&cache_seconds=86400)
