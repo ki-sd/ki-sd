@@ -14,8 +14,8 @@
     <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white">
-    ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
-    ![JSP](https://img.shields.io/badge/JSP-007396?style=flat-square&logo=openjdk&logoColor=white)
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white">
+    <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=openjdk&logoColor=white&v=2">
   </p>
 
 * **DataBase**
