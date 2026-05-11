@@ -1,6 +1,6 @@
-# 👋 Hello, I'm ki-sd | Java Developer
+# Hello, I'm ki-sd | Java Developer
 
-### 🚀 About Me
+###  About Me
 * 📝 **Blog**: <a href="https://ki-sd.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white&link=https://ki-sd.tistory.com/"></a>
 * 🎓 **Current**: 자바/AWS 풀스택 개발자 부트캠프 수강 중 (2026.03 ~ )
 * 🎯 **Goal**: 견고한 백엔드 설계 능력을 바탕으로, 복잡한 비즈니스 문제를 기술로 해결하는 시니어 개발자로 성장하는 것을 목표로 합니다.
@@ -8,7 +8,7 @@
 
 ---
 
-### 🛠 Tech Stack
+###  Tech Stack
 * **Languages**
   <p>
     <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" style="vertical-align: middle;">
@@ -40,8 +40,8 @@
 
 ---
 
-### 📂 Featured Project
-#### 🏨 [Hotel Management Tool](https://github.com/ki-sd/Hotel_Test)
+###  Featured Project
+####  [Hotel Management Tool](https://github.com/ki-sd/Hotel_Test)
 > **Java 기반 객체지향 호텔 예약 관리 시스템**
 * **Key Achievements**:
     - Jackson 라이브러리를 활용한 JSON 기반 데이터 영속성 확보
@@ -50,7 +50,7 @@
 
 ---
 
-### 🌐 Language Proficiency
+###  Language Proficiency
 * **Korean**: Native
 * **Japanese**: Business Level (JLPT N2)
     - 日本でのエンジニア就職を目指して、技術習得と語学学習を並行しています。
@@ -58,10 +58,10 @@
 
 ---
 
-### 🚀 Recent Learning & Troubleshooting
+###  Recent Learning & Troubleshooting
 * **인코딩 트러블슈팅 (Java/Gradle)**: Windows 환경의 한글 깨짐 문제를 해결하는 과정에서 **'시스템 전체 설정 변경'의 위험성**을 인지하고, 프로젝트 내부 설정 및 코드 수정을 통해 타 소프트웨어에 영향을 주지 않는 **근본적인 환경 독립적 해결 방안**을 도출함.
 
 ---
 
-### 📊 GitHub Stats
+###  GitHub Stats
 ![Your GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ki-sd&show_icons=true&theme=tokyonight&cache_seconds=86400)
