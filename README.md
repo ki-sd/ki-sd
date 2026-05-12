@@ -34,9 +34,10 @@
   </p>
 
 * **Core Skills**
-    - **Troubleshooting**: Windows 환경의 Gradle 인코딩(UTF-8) 최적화 및 레지스트리 제어 경험
-    - **Data Design**: JSON 직렬화 시 DTO를 활용한 순환 참조 해결 및 데이터 영속성 설계
-    - **Algorithm**: 중첩 반복문(Nested Loop)을 활용한 데이터 처리 및 석차 산출 로직 구현
+  - **Architecture & Design**: MVC 패턴 기반의 객체지향 설계 및 DTO/DAO 객체를 활용한 비즈니스 로직과 데이터 계층의 완벽한 분리 경험.
+  - **Database Management**: RDBMS(Oracle) 환경에서의 엔티티 설계, 제약조건(PK/FK) 활용, 그리고 비즈니스 요구사항(대출/반납 로직 등)을 반영한 SQL 쿼리 작성 및 최적화 역량.
+  - **UI & Web Fundamentals**: Java Swing을 활용한 이벤트 주도형(Event-Driven) 데스크톱 GUI 개발 경험 보유. 현재 웹 생태계 이해를 위해 HTML5/CSS3 기반의 UI 구조 및 웹 표준을 학습 중.
+  - **Troubleshooting**: Windows 환경의 Gradle 인코딩(UTF-8) 오류 발생 시, 시스템 전체 설정 변경의 부작용을 고려하여 프로젝트 독립적인 해결 방안을 도출하고 레지스트리를 제어한 딥다이브 경험.
 
 ---
 
