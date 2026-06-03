@@ -11,11 +11,15 @@
 ###  Tech Stack
 * **Languages**
   <p>
-    <img src="https://img.shields.io/badge/Java_21-ED8B00?style=flat-square&logo=openjdk&logoColor=white" style="vertical-align: middle;">
     <img src="https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white" style="vertical-align: middle;">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="vertical-align: middle;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" style="vertical-align: middle;">
     <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" style="vertical-align: middle;">
-    <img src="https://img.shields.io/badge/JSP-007396?style=flat-square&logo=openjdk&logoColor=white&v=2" style="vertical-align: middle;">
+
+* **Frameworks & Architecture**
+  <p>
+    <img src="https://img.shields.io/badge/Servlet%2FJSP-007396?style=flat-square&logo=java&logoColor=white" style="vertical-align: middle;">
+    <img src="https://img.shields.io/badge/MyBatis_3.5-000000?style=flat-square" style="vertical-align: middle;">
   </p>
 
 * **DataBase**
@@ -29,14 +33,13 @@
     <img src="https://img.shields.io/badge/Eclipse_IDE-2C2255?style=flat-square&logo=eclipseide&logoColor=white" style="vertical-align: middle;">
     <img src="https://img.shields.io/badge/VS_Code-007ACC?style=flat-square&logo=visualstudiocode&logoColor=white" style="vertical-align: middle;">
     <img src="https://img.shields.io/badge/Gradle-02303A?style=flat-square&logo=gradle&logoColor=white" style="vertical-align: middle;">
-    <img src="https://img.shields.io/badge/SQL_Developer-F80000?style=flat-square&logo=oracle&logoColor=white" style="vertical-align: middle;">
     <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" style="vertical-align: middle;">
   </p>
 
 * **Core Skills**
-    - **Troubleshooting**: Windows 환경의 Gradle 인코딩(UTF-8) 최적화 및 레지스트리 제어 경험
-    - **Data Design**: JSON 직렬화 시 DTO를 활용한 순환 참조 해결 및 데이터 영속성 설계
-    - **Algorithm**: 중첩 반복문(Nested Loop)을 활용한 데이터 처리 및 석차 산출 로직 구현
+  - **Architecture & Design**: MVC 패턴의 원리를 이해하고, View(JSP/JSTL)와 Model/Controller 계층을 완벽하게 분리하는 데이터 렌더링 파이프라인 설계 역량.
+  - **Database Management**: RDBMS(Oracle) 환경에서의 엔티티 설계, 제약조건 활용, 그리고 순수 JDBC부터 DBCP(커넥션 풀), MyBatis로 이어지는 DB 아키텍처 고도화 경험.
+  - **Security & Efficiency**: `jBcrypt`를 활용한 비밀번호 단방향 암호화 처리 및 데이터 객체 간의 포함 관계(Composition)를 활용한 복잡한 JOIN 쿼리 매핑.
 
 ---
 
@@ -50,12 +53,12 @@
   - Oracle DB 연동을 통한 도서 대출/반납 및 회원 데이터 영속성 관리
   - 팀 단위 개발을 통한 역할 분담 및 협업 프로세스 경험
 
-#### 2. [Hotel Management Tool](https://github.com/ki-sd/Hotel_Test)
-> **Java 기반 객체지향 호텔 예약 관리 시스템**
+#### 2. [Hotel Management System](https://github.com/ki-sd/HotelManagement)
+> **웹 기반 호텔 인적 자원 및 예약 관리 백엔드 시스템 (개인 프로젝트)**
 * **Key Achievements**:
-  - Jackson 라이브러리를 활용한 JSON 기반 데이터 영속성 확보
-  - DTO(Data Transfer Object) 설계를 통한 메모리 효율화 및 무한 루프(순환 참조) 방지
-  - MVC 패턴을 지향하는 패키지 구조 설계 (`controller`, `service`, `model`, `dto`, `repository`)
+  - **Architecture Evolution**: 시스템 성능 및 유지보수성을 위해 순수 JDBC ➔ DBCP ➔ MyBatis 프레임워크로 이어지는 3단계 데이터베이스 아키텍처 리팩토링 수행.
+  - **MVC Routing**: 서블릿(Servlet)과 JSTL/EL을 활용한 동적 Include 방식의 단일 진입점(Front Controller) 렌더링 환경 구축.
+  - **Security & Data Modeling**: jBcrypt를 이용한 보안 강화 및 열거형(Enum)을 활용한 상태 값(직급, 객실 상태 등) 체계적 관리.
 
 ---
 
@@ -69,9 +72,10 @@
 ---
 
 ###  Recent Learning & Troubleshooting
-* **Web Frontend Basics (HTML/CSS)**: 백엔드 개발자로서 웹 생태계의 전반적인 동작 원리를 깊이 이해하기 위해 HTML5와 CSS3를 학습 중. 웹 표준에 맞춘 UI 구조 설계의 기초를 다지며, 향후 웹 애플리케이션(JSP, Spring) 환경에서 발생할 프론트엔드와의 원활한 데이터 연동 및 협업을 준비하고 있음.
-* **Database & GUI 연동 로직 구현**: 단일 애플리케이션 환경을 넘어, RDBMS(Oracle)와 애플리케이션(Java Swing)을 연동한 팀 프로젝트를 완수하며 효율적인 데이터 처리 및 쿼리 작성 역량을 확보함.
 * **인코딩 트러블슈팅 (Java/Gradle)**: Windows 환경의 한글 깨짐 문제를 해결하는 과정에서 **'시스템 전체 설정 변경'의 위험성**을 인지하고, 프로젝트 내부 설정 및 코드 수정을 통해 타 소프트웨어에 영향을 주지 않는 **근본적인 환경 독립적 해결 방안**을 도출함.
+* **Database & GUI 연동 로직 구현**: 단일 애플리케이션 환경을 넘어, RDBMS(Oracle)와 애플리케이션(Java Swing)을 연동한 팀 프로젝트를 완수하며 효율적인 데이터 처리 및 쿼리 작성 역량을 확보함.
+* **웹 아키텍처의 진화 (MV to MVC)**: 모든 로직을 프레임워크에 맡기기 전에, 스크립틀릿(`<%%>`)을 걷어낸 순수 JSP 라우팅(MV 패턴)을 직접 구현해 보고 이후 Servlet으로 책임 영역을 분리하는 리팩토링을 진행함. 이를 통해 스프링(Spring) 프레임워크의 핵심인 DispatcherServlet의 내부 동작 원리와 데이터 렌더링 흐름을 깊이 있게 체득함.
+* **데이터베이스 병목 현상 및 유지보수 개선**: 초기 수동 DB 커넥션이 야기하는 리소스 낭비 문제를 인지하고, 커넥션 풀(DBCP) 도입으로 트랜잭션 성능을 최적화함. 또한 복잡한 SQL 바인딩 코드를 MyBatis로 전면 교체하여 비즈니스 로직과 데이터 접근 계층을 명확히 분리해냄.
 
 ---
 
