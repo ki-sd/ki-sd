@@ -37,7 +37,7 @@
 
 * **Certifications**
   <p>
-    <img src="https://img.shields.io/badge/SQLD-00599C?style=flat-square&logo=oracle&logoColor=white" style="vertical-align: middle;">
+    <img src="https://img.shields.io/badge/SQLD_Certified-232F3E?style=flat-square&logo=databricks&logoColor=white" style="vertical-align: middle;">
   </p>
 
 * **Core Skills**
