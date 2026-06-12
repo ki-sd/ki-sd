@@ -35,6 +35,11 @@
     <img src="https://img.shields.io/badge/DBeaver-382923?style=flat-square&logo=dbeaver&logoColor=white" style="vertical-align: middle;">
   </p>
 
+* **Certifications**
+  <p>
+    <img src="https://img.shields.io/badge/SQLD-00599C?style=flat-square&logo=oracle&logoColor=white" style="vertical-align: middle;">
+  </p>
+
 * **Core Skills**
   - **Architecture & Design**: MVC 패턴의 원리를 이해하고, View(JSP/JSTL)와 Model/Controller 계층을 완벽하게 분리하는 데이터 렌더링 파이프라인 설계 역량.
   - **Database Management**: RDBMS(Oracle) 환경에서의 엔티티 설계, 제약조건 활용, 그리고 순수 JDBC부터 DBCP(커넥션 풀), MyBatis로 이어지는 DB 아키텍처 고도화 경험.
