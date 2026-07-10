@@ -17,10 +17,16 @@
 
 * **Frameworks & Architecture**
   <p>
+    <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" style="vertical-align: middle;">
     <img src="https://img.shields.io/badge/Servlet%2FJSP-007396?style=flat-square&logo=java&logoColor=white" style="vertical-align: middle;">
     <img src="https://img.shields.io/badge/MyBatis_3.5-000000?style=flat-square" style="vertical-align: middle;">
   </p>
 
+* **Infrastructure & Cloud**
+  <p>
+    <img src="https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazonwebservices&logoColor=FF9900" style="vertical-align: middle;">
+  </p>
+  
 * **DataBase**
   <p>
     <img src="https://img.shields.io/badge/Oracle_21c-F80000?style=flat-square&logo=oracle&logoColor=white" style="vertical-align: middle;">
