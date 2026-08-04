@@ -77,6 +77,17 @@
 
 ---
 
+### 📚 Learning Repositories
+
+| Category | Repository / Topic                      | Main Tech                                         | Link                                                                                                                                                          |
+| :--- |:----------------------------------------|:--------------------------------------------------|:--------------------------------------------------------------------------------------------------------------------------------------------------------------|
+| **Java** | 자바 핵심 개념 및 트러블슈팅 정리                     | `Java`                                            | [<img src="https://img.shields.io/badge/Repository-ED8B00?style=flat-square&logo=github&logoColor=white">](https://github.com/ki-sd/2026-03-03-javaStudy)     |
+| **Web** | Servlet/JSP 아키텍처 및 DispatcherServlet 구현 | `Servlet` `JSP` `Vue` `NodeJS`                    | [<img src="https://img.shields.io/badge/Repository-007396?style=flat-square&logo=github&logoColor=white">](https://github.com/ki-sd/2026-03-03-WebStudy)      |
+| **Framework** | Spring & SpringBoot 실습 모음               | `SpringFrameWork` `Spring Boot` `JPA` `ThymeLeaf` | [<img src="https://img.shields.io/badge/Repository-6DB33F?style=flat-square&logo=github&logoColor=white">](https://github.com/ki-sd/2026-03-03-Spring-Study) [<img src="https://img.shields.io/badge/Repository-6DB33F?style=flat-square&logo=github&logoColor=white">](https://github.com/ki-sd/2026-03-03-Spring-Boot-Study) |
+| **Database** | Oracle SQL 실습 및 데이터베이스 튜닝               | `Oracle` `MyBatis`                                | [<img src="https://img.shields.io/badge/Repository-F80000?style=flat-square&logo=github&logoColor=white">](https://github.com/ki-sd/2026-03-03-OracleStudy)   |
+
+---
+
 ###  Language Proficiency
 * **Korean**: Native
 * **Japanese**: Conversational / Pre-Business (JLPT N2)
