@@ -26,8 +26,10 @@
     <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" style="vertical-align: middle;">
   </p>
 
-* **Infrastructure & Cloud**
+* **Dev-Ops & Infrastructure**
   <p>
+    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" style="vertical-align: middle;">
+    <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" style="vertical-align: middle;">
     <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" style="vertical-align: middle;">
   </p>
   
@@ -91,8 +93,7 @@
 ###  Language Proficiency
 * **Korean**: Native
 * **Japanese**: Conversational / Pre-Business (JLPT N2)
-  - 日常会話に問題はなく、日本でのエンジニア就職に向けてビジネスレベルのコミュニケーション能力を学習中です。
-  - 원활한 일상 회화가 가능하며, 향후 일본 IT 취업을 목표로 실무 및 비즈니스 환경에 적합한 커뮤니케이션 능력을 적극적으로 기르고 있습니다.
+  - 日常会話はスムーズに行え、将来的な日本でのキャリアも視野に入れ、ビジネスレベルの日本語コミュニケーション能力の向上に努めています。
 * **English**: Basic Technical Reading
 
 ---
