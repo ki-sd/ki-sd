@@ -57,28 +57,27 @@
   </p>
 
 * **Core Skills**
-  - **Architecture & Design**: MVC 패턴의 원리를 이해하고, View(JSP/JSTL)와 Model/Controller 계층을 완벽하게 분리하는 데이터 렌더링 파이프라인 설계 역량.
-  - **Database Management**: RDBMS(Oracle) 환경에서의 엔티티 설계, 제약조건 활용, 그리고 순수 JDBC부터 DBCP(커넥션 풀), MyBatis로 이어지는 DB 아키텍처 고도화 경험.
-  - **Security & Efficiency**: `jBcrypt`를 활용한 비밀번호 단방향 암호화 처리 및 데이터 객체 간의 포함 관계(Composition)를 활용한 복잡한 JOIN 쿼리 매핑.
+  - **Spring Framework Mastery**: IoC/DI 컨테이너의 라이프사이클을 이해하고, XML 설정 방식부터 Annotation 기반의 Spring Boot 자동 설정까지 프레임워크의 진화 과정을 체득하여 활용할 수 있습니다.
+- **Architecture & AOP**: MVC 패턴 기반의 완벽한 계층 분리(Controller-Service-DAO)를 구현하며, AOP(관점 지향 프로그래밍)를 활용해 공통 관심사(로깅, 트랜잭션 등)를 분리하는 모듈화 설계 역량을 갖추고 있습니다.
+- **Database & ORM**: RDBMS(Oracle) 환경에서의 복잡한 엔티티(Match, Reserve, Order 등) 관계 설계 및 제약조건 활용 경험이 있으며, MyBatis를 활용한 동적 쿼리 작성과 데이터베이스 아키텍처 고도화에 능숙합니다.
+- **Real-time & API Integration**: WebSocket을 활용한 실시간 양방향 통신(채팅 등) 서버 구현 및 Proxy 패턴을 이용한 외부 미디어(YouTube, News) API 연동 데이터 처리 경험이 있습니다.
 
 ---
 
 ### 🚀 Featured Projects
 
-#### 1. [Library Kiosk Management System](https://github.com/library-kiosk/2026-java-project)
-> **Java Swing과 Oracle Database를 연동한 도서관 키오스크 시스템 (팀 프로젝트)**
+#### 1. [Kick-Off : 종합 스포츠(풋살/축구) 매칭 및 구장 예약 플랫폼](https://github.com/사용자계정/Kick-Off) <!-- 링크 수정 필요 -->
+> **Spring 기반의 사용자 간 매칭, 구장 예약, E-commerce 기능이 통합된 대규모 웹 서비스 (팀 프로젝트)**
 * **Key Achievements**:
-  - 사용자 요구사항 명세 및 세부 비즈니스 로직 설계
-  - Java Swing을 활용한 직관적인 사용자 인터페이스(GUI) 구현
-  - Oracle DB 연동을 통한 도서 대출/반납 및 회원 데이터 영속성 관리
-  - 팀 단위 개발을 통한 역할 분담 및 협업 프로세스 경험
+  - **복잡한 비즈니스 로직 구현**: 팀/개인 단위의 매치(Match) 시스템, 구장 예약(Reserve), 쇼핑몰 장바구니(Cart) 및 결제(Order)에 이르는 통합 데이터 트랜잭션 설계 및 구현.
+  - **실시간 소통 및 정보 제공**: `WebSocket`을 도입하여 사용자 간 실시간 채팅(Chat) 환경을 구축하고, `YoutubeProxy` 및 `NewsServer` 구성을 통해 외부 스포츠 미디어 데이터를 비동기적으로 제공.
+  - **체계적인 MVC 아키텍처**: Model-View-Controller 계층의 엄격한 분리와 사용자(Member)/관리자(Admin) 권한에 따른 라우팅 및 데이터 접근 제어 구현.
 
 #### 2. [Hotel Management System](https://github.com/ki-sd/HotelManagement)
 > **웹 기반 호텔 인적 자원 및 예약 관리 백엔드 시스템 (개인 프로젝트)**
 * **Key Achievements**:
   - **Architecture Evolution**: 시스템 성능 및 유지보수성을 위해 순수 JDBC ➔ DBCP ➔ MyBatis 프레임워크로 이어지는 3단계 데이터베이스 아키텍처 리팩토링 수행.
   - **MVC Routing**: 서블릿(Servlet)과 JSTL/EL을 활용한 동적 Include 방식의 단일 진입점(Front Controller) 렌더링 환경 구축.
-  - **Security & Data Modeling**: jBcrypt를 이용한 보안 강화 및 열거형(Enum)을 활용한 상태 값(직급, 객실 상태 등) 체계적 관리.
 
 ---
 
@@ -102,10 +101,10 @@
 ---
 
 ### 🔍 Recent Learning & Troubleshooting
-* **인코딩 트러블슈팅 (Java/Gradle)**: Windows 환경의 한글 깨짐 문제를 해결하는 과정에서 **'시스템 전체 설정 변경'의 위험성**을 인지하고, 프로젝트 내부 설정 및 코드 수정을 통해 타 소프트웨어에 영향을 주지 않는 **근본적인 환경 독립적 해결 방안**을 도출함.
-* **Database & GUI 연동 로직 구현**: 단일 애플리케이션 환경을 넘어, RDBMS(Oracle)와 애플리케이션(Java Swing)을 연동한 팀 프로젝트를 완수하며 효율적인 데이터 처리 및 쿼리 작성 역량을 확보함.
-* **웹 아키텍처의 진화 (MV to MVC)**: 모든 로직을 프레임워크에 맡기기 전에, 스크립틀릿(`<%%>`)을 걷어낸 순수 JSP 라우팅(MV 패턴)을 직접 구현해 보고 이후 Servlet으로 책임 영역을 분리하는 리팩토링을 진행함. 이를 통해 스프링(Spring) 프레임워크의 핵심인 DispatcherServlet의 내부 동작 원리와 데이터 렌더링 흐름을 깊이 있게 체득함.
-* **데이터베이스 병목 현상 및 유지보수 개선**: 초기 수동 DB 커넥션이 야기하는 리소스 낭비 문제를 인지하고, 커넥션 풀(DBCP) 도입으로 트랜잭션 성능을 최적화함. 또한 복잡한 SQL 바인딩 코드를 MyBatis로 전면 교체하여 비즈니스 로직과 데이터 접근 계층을 명확히 분리해냄.
+* **프레임워크 내부 동작 원리의 체득 (Spring Core)**: 스프링을 단순히 사용하는 것을 넘어, `SpringDI`, `SpringAOP`, `SpringMVCProject` 실습을 통해 객체의 생성과 의존성 주입(DI) 흐름, 프록시 객체를 통한 AOP 동작 원리를 바닥부터 구현해 보며 견고한 객체지향 설계의 중요성을 깨달았습니다.
+* **Legacy에서 Modern Web으로의 전환 경험**: 순수 Servlet/JSP 구조에서 Spring MVC(XML 설정)로, 그리고 다시 타임리프(Thymeleaf)를 결합한 Spring Boot 기반으로 프로젝트를 마이그레이션하며 각 기술 스택의 존재 이유와 생산성 향상의 차이를 깊이 이해했습니다.
+* **실시간 데이터 처리와 외부 API 연동 (Kick-Off 프로젝트)**: 기존의 단방향 HTTP 요청을 넘어, WebSocket을 활용한 세션 관리와 실시간 채팅을 구현했습니다. 또한 CORS 문제나 서버 부하를 방지하기 위해 Proxy 서버 패턴을 적용하여 YouTube 및 뉴스 데이터를 안정적으로 파싱하고 제공하는 경험을 쌓았습니다.
+* **DB 커넥션 최적화 및 트랜잭션 분리**: 복잡도 높은 예약 및 결제 로직(Reserve, Order)을 처리하는 과정에서 발생하는 데이터 불일치를 막기 위해 MyBatis 구조 내에서 비즈니스 로직(Service)과 데이터 접근(DAO) 계층의 트랜잭션을 엄격하게 관리하는 방법을 훈련했습니다.
 
 ---
 
