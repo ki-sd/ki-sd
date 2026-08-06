@@ -29,6 +29,7 @@
 * **Dev-Ops & Infrastructure**
   <p>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" style="vertical-align: middle;">
+    <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" style="vertical-align: middle;">
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" style="vertical-align: middle;">
     <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" style="vertical-align: middle;">
   </p>
