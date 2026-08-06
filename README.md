@@ -1,20 +1,22 @@
 # Hello, I'm ki-sd | Java Developer
 
-###  About Me
-*  **Blog**: <a href="https://ki-sd.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white&link=https://ki-sd.tistory.com/" style="vertical-align: middle;"></a>
-*  **Current**: 자바/AWS 풀스택 개발자 부트캠프 수강 중 (2026.03 ~ )
-*  **Goal**: 견고한 백엔드 설계 능력을 바탕으로, 복잡한 비즈니스 문제를 기술로 해결하는 시니어 개발자로 성장하는 것을 목표로 합니다.
+### 👨‍💻 About Me
+* **Blog**: <a href="https://ki-sd.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white" style="vertical-align: middle;"></a>
+* **Current**: 자바/AWS 풀스택 개발자 부트캠프 수강 중 (2026.03 ~ )
+* **Goal**: 견고한 백엔드 설계 능력을 바탕으로, 복잡한 비즈니스 문제를 기술로 해결하는 시니어 개발자로 성장하는 것을 목표로 합니다.
 
 ---
 
-###  Tech Stack
+### 🛠 Tech Stack
+
 * **Language & Environment**
   <p>
     <img src="https://img.shields.io/badge/Java_25-ED8B00?style=flat-square&logo=openjdk&logoColor=white" style="vertical-align: middle;">
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black" style="vertical-align: middle;">
     <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" style="vertical-align: middle;">
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white" style="vertical-align: middle;">
-    <img src="https://img.shields.io/badge/CSS3-%231572B6.svg?style=flat-square&logo=css3&logoColor=white" style="vertical-align: middle;">
+    <img src="https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white" style="vertical-align: middle;">
+  </p>
 
 * **Frameworks & Architecture**
   <p>
@@ -26,15 +28,15 @@
     <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" style="vertical-align: middle;">
   </p>
 
-* **Dev-Ops & Infrastructure**
+* **DevOps & Infrastructure**
   <p>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" style="vertical-align: middle;">
     <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" style="vertical-align: middle;">
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" style="vertical-align: middle;">
     <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" style="vertical-align: middle;">
   </p>
-  
-* **DataBase**
+
+* **Database**
   <p>
     <img src="https://img.shields.io/badge/Oracle_21c-F80000?style=flat-square&logo=oracle&logoColor=white" style="vertical-align: middle;">
   </p>
@@ -61,7 +63,7 @@
 
 ---
 
-###  Featured Projects
+### 🚀 Featured Projects
 
 #### 1. [Library Kiosk Management System](https://github.com/library-kiosk/2026-java-project)
 > **Java Swing과 Oracle Database를 연동한 도서관 키오스크 시스템 (팀 프로젝트)**
@@ -82,16 +84,16 @@
 
 ### 📚 Learning Repositories
 
-| Category | Repository / Topic                                       | Main Tech                                         | Link                                                                                                                                                                                                                                                                                                                           |
-| :--- |:---------------------------------------------------------|:--------------------------------------------------|:-------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------|
-| **Java** | 자바 핵심 개념 및 트러블슈팅 정리                                      | `Java`                                            | [<img src="https://img.shields.io/badge/JavaStudy-ED8B00?style=flat-square&logo=github&logoColor=white">](https://github.com/ki-sd/2026-03-03-javaStudy)                                                                                                                                                                       |
-| **Web** | Servlet/JSP 아키텍처 및 DispatcherServlet 구현,<br/>Vue 컴포넌트 출력 | `Servlet` `JSP` `Vue` `NodeJS`                    | [<img src="https://img.shields.io/badge/WebStudy-007396?style=flat-square&logo=github&logoColor=white">](https://github.com/ki-sd/2026-03-03-WebStudy) [<img src="https://img.shields.io/badge/VueStudy-41B883?style=flat-square&logo=github&logoColor=white">](https://github.com/ki-sd/2026-03-03-VueStudy)                  |
-| **Framework** | Spring & SpringBoot 실습 모음                                | `SpringFrameWork` `Spring Boot` `JPA` `ThymeLeaf` | [<img src="https://img.shields.io/badge/SpringStudy-6DB33F?style=flat-square&logo=github&logoColor=white">](https://github.com/ki-sd/2026-03-03-Spring-Study) [<img src="https://img.shields.io/badge/BootStudy-6DB33F?style=flat-square&logo=github&logoColor=white">](https://github.com/ki-sd/2026-03-03-Spring-Boot-Study) |
-| **Database** | Oracle SQL 실습 및 데이터베이스 튜닝                                | `Oracle` `MyBatis`                                | [<img src="https://img.shields.io/badge/OracleStudy-F80000?style=flat-square&logo=github&logoColor=white">](https://github.com/ki-sd/2026-03-03-OracleStudy)                                                                                                                                                                   |
+| Category | Repository / Topic | Main Tech | Link |
+| :--- | :--- | :--- | :--- |
+| **Java** | 자바 핵심 개념 및 트러블슈팅 정리 | `Java` | [<img src="https://img.shields.io/badge/JavaStudy-ED8B00?style=flat-square&logo=github&logoColor=white">](https://github.com/ki-sd/2026-03-03-javaStudy) |
+| **Web** | Servlet/JSP 아키텍처 및 DispatcherServlet 구현,<br/>Vue 컴포넌트 출력 | `Servlet` `JSP` `Vue` `NodeJS` | [<img src="https://img.shields.io/badge/WebStudy-007396?style=flat-square&logo=github&logoColor=white">](https://github.com/ki-sd/2026-03-03-WebStudy) [<img src="https://img.shields.io/badge/VueStudy-41B883?style=flat-square&logo=github&logoColor=white">](https://github.com/ki-sd/2026-03-03-VueStudy) |
+| **Framework** | Spring & SpringBoot 실습 모음 | `SpringFramework` `Spring Boot` `JPA` `Thymeleaf` | [<img src="https://img.shields.io/badge/SpringStudy-6DB33F?style=flat-square&logo=github&logoColor=white">](https://github.com/ki-sd/2026-03-03-Spring-Study) [<img src="https://img.shields.io/badge/BootStudy-6DB33F?style=flat-square&logo=github&logoColor=white">](https://github.com/ki-sd/2026-03-03-Spring-Boot-Study) |
+| **Database** | Oracle SQL 실습 및 데이터베이스 튜닝 | `Oracle` `MyBatis` | [<img src="https://img.shields.io/badge/OracleStudy-F80000?style=flat-square&logo=github&logoColor=white">](https://github.com/ki-sd/2026-03-03-OracleStudy) |
 
 ---
 
-###  Language Proficiency
+### 🌐 Language Proficiency
 * **Korean**: Native
 * **Japanese**: Conversational / Pre-Business (JLPT N2)
   - 日常会話はスムーズに行え、将来的な日本でのキャリアも視野に入れ、ビジネスレベルの日本語コミュニケーション能力の向上に努めています。
@@ -99,7 +101,7 @@
 
 ---
 
-###  Recent Learning & Troubleshooting
+### 🔍 Recent Learning & Troubleshooting
 * **인코딩 트러블슈팅 (Java/Gradle)**: Windows 환경의 한글 깨짐 문제를 해결하는 과정에서 **'시스템 전체 설정 변경'의 위험성**을 인지하고, 프로젝트 내부 설정 및 코드 수정을 통해 타 소프트웨어에 영향을 주지 않는 **근본적인 환경 독립적 해결 방안**을 도출함.
 * **Database & GUI 연동 로직 구현**: 단일 애플리케이션 환경을 넘어, RDBMS(Oracle)와 애플리케이션(Java Swing)을 연동한 팀 프로젝트를 완수하며 효율적인 데이터 처리 및 쿼리 작성 역량을 확보함.
 * **웹 아키텍처의 진화 (MV to MVC)**: 모든 로직을 프레임워크에 맡기기 전에, 스크립틀릿(`<%%>`)을 걷어낸 순수 JSP 라우팅(MV 패턴)을 직접 구현해 보고 이후 Servlet으로 책임 영역을 분리하는 리팩토링을 진행함. 이를 통해 스프링(Spring) 프레임워크의 핵심인 DispatcherServlet의 내부 동작 원리와 데이터 렌더링 흐름을 깊이 있게 체득함.
@@ -107,5 +109,5 @@
 
 ---
 
-###  GitHub Stats
+### 📊 GitHub Stats
 ![Your GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ki-sd&show_icons=true&theme=tokyonight&cache_seconds=86400)
