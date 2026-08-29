@@ -1,13 +1,13 @@
 # Hello, I'm ki-sd | Java Developer
 
-### 👨‍💻 About Me
+### About Me
 * **Blog**: <a href="https://ki-sd.tistory.com/" target="_blank"><img src="https://img.shields.io/badge/Tistory-000000?style=flat-square&logo=tistory&logoColor=white" style="vertical-align: middle;"></a>
 * **Current**: 자바/AWS 풀스택 개발자 부트캠프 수강 중 (2026.03 ~ )
 * **Goal**: 견고한 백엔드 설계 능력을 바탕으로, 복잡한 비즈니스 문제를 기술로 해결하는 시니어 개발자로 성장하는 것을 목표로 합니다.
 
 ---
 
-### 🛠 Tech Stack
+### Tech Stack
 
 * **Language & Environment**
   <p>
@@ -64,24 +64,27 @@
 
 ---
 
-### 🚀 Featured Projects
+### Featured Projects
 
-#### 1. [Kick-Off : 종합 스포츠(풋살/축구) 매칭 및 구장 예약 플랫폼](https://github.com/사용자계정/Kick-Off) <!-- 링크 수정 필요 -->
+#### 1. [Kick-Off : 종합 축구 매칭 및 구장 예약 플랫폼]([https://github.com/사용자계정/Kick-Off](https://github.com/Kick-Off-SIST/Kick-Off))
 > **Spring 기반의 사용자 간 매칭, 구장 예약, E-commerce 기능이 통합된 대규모 웹 서비스 (팀 프로젝트)**
 * **Key Achievements**:
   - **복잡한 비즈니스 로직 구현**: 팀/개인 단위의 매치(Match) 시스템, 구장 예약(Reserve), 쇼핑몰 장바구니(Cart) 및 결제(Order)에 이르는 통합 데이터 트랜잭션 설계 및 구현.
   - **실시간 소통 및 정보 제공**: `WebSocket`을 도입하여 사용자 간 실시간 채팅(Chat) 환경을 구축하고, `YoutubeProxy` 및 `NewsServer` 구성을 통해 외부 스포츠 미디어 데이터를 비동기적으로 제공.
   - **체계적인 MVC 아키텍처**: Model-View-Controller 계층의 엄격한 분리와 사용자(Member)/관리자(Admin) 권한에 따른 라우팅 및 데이터 접근 제어 구현.
 
+<!--
 #### 2. [Hotel Management System](https://github.com/ki-sd/HotelManagement)
 > **웹 기반 호텔 인적 자원 및 예약 관리 백엔드 시스템 (개인 프로젝트)**
 * **Key Achievements**:
   - **Architecture Evolution**: 시스템 성능 및 유지보수성을 위해 순수 JDBC ➔ DBCP ➔ MyBatis 프레임워크로 이어지는 3단계 데이터베이스 아키텍처 리팩토링 수행.
   - **MVC Routing**: 서블릿(Servlet)과 JSTL/EL을 활용한 동적 Include 방식의 단일 진입점(Front Controller) 렌더링 환경 구축.
+-->
+
 
 ---
 
-### 📚 Learning Repositories
+### Learning Repositories
 
 | Category | Repository / Topic | Main Tech | Link |
 | :--- | :--- | :--- | :--- |
@@ -92,7 +95,7 @@
 
 ---
 
-### 🌐 Language Proficiency
+### Language Proficiency
 * **Korean**: Native
 * **Japanese**: Conversational / Pre-Business (JLPT N2)
   - 日常会話はスムーズに行え、将来的な日本でのキャリアも視野に入れ、ビジネスレベルの日本語コミュニケーション能力の向上に努めています。
@@ -100,13 +103,12 @@
 
 ---
 
-### 🔍 Recent Learning & Troubleshooting
-* **프레임워크 내부 동작 원리의 체득 (Spring Core)**: 스프링을 단순히 사용하는 것을 넘어, `SpringDI`, `SpringAOP`, `SpringMVCProject` 실습을 통해 객체의 생성과 의존성 주입(DI) 흐름, 프록시 객체를 통한 AOP 동작 원리를 바닥부터 구현해 보며 견고한 객체지향 설계의 중요성을 깨달았습니다.
-* **Legacy에서 Modern Web으로의 전환 경험**: 순수 Servlet/JSP 구조에서 Spring MVC(XML 설정)로, 그리고 다시 타임리프(Thymeleaf)를 결합한 Spring Boot 기반으로 프로젝트를 마이그레이션하며 각 기술 스택의 존재 이유와 생산성 향상의 차이를 깊이 이해했습니다.
-* **실시간 데이터 처리와 외부 API 연동 (Kick-Off 프로젝트)**: 기존의 단방향 HTTP 요청을 넘어, WebSocket을 활용한 세션 관리와 실시간 채팅을 구현했습니다. 또한 CORS 문제나 서버 부하를 방지하기 위해 Proxy 서버 패턴을 적용하여 YouTube 및 뉴스 데이터를 안정적으로 파싱하고 제공하는 경험을 쌓았습니다.
-* **DB 커넥션 최적화 및 트랜잭션 분리**: 복잡도 높은 예약 및 결제 로직(Reserve, Order)을 처리하는 과정에서 발생하는 데이터 불일치를 막기 위해 MyBatis 구조 내에서 비즈니스 로직(Service)과 데이터 접근(DAO) 계층의 트랜잭션을 엄격하게 관리하는 방법을 훈련했습니다.
-
+### Recent Learning & Troubleshooting
+* **프레임워크 내부 동작 원리 체득**: 단순 스프링 프레임워크 사용을 넘어 `SpringDI`, `SpringAOP`, `SpringMVCProject` 실습을 진행. 객체의 생성과 의존성 주입(DI) 흐름, 프록시 객체 기반의 AOP 동작 원리를 바닥부터 구현하며 견고한 객체지향 설계 기반 확립
+* **Legacy에서 Modern Web으로의 점진적 고도화**: 순수 Servlet/JSP 구조에서 Spring MVC를 거쳐 Thymeleaf를 결합한 Spring Boot 아키텍처로 프로젝트를 마이그레이션하며, 기술 스택 전환에 따른 생산성 향상 원리 파악
+* **실시간 데이터 처리 및 외부 API 연동 (Kick-Off 프로젝트)**: 단방향 HTTP 요청을 넘어 WebSocket을 활용한 세션 관리 및 실시간 채팅 구현. Proxy 서버 패턴을 적용해 CORS 이슈를 방지하고 YouTube 및 뉴스 API 데이터를 안정적으로 파싱하여 제공
+* **데이터 정합성 보장 및 트랜잭션 최적화**: 복잡도 높은 예약 및 결제 로직(`Reserve`, `Order`) 처리 시 발생하는 데이터 불일치 방지를 위해, MyBatis 구조 내 비즈니스(`Service`) 계층과 데이터 접근(`DAO`) 계층을 분리하고 선언적 트랜잭션을 엄격하게 제어
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 ![Your GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ki-sd&show_icons=true&theme=tokyonight&cache_seconds=86400)
