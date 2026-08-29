@@ -66,7 +66,7 @@
 
 ### Featured Projects
 
-#### 1. [Kick-Off : 종합 축구 매칭 및 구장 예약 플랫폼]([https://github.com/사용자계정/Kick-Off](https://github.com/Kick-Off-SIST/Kick-Off))
+#### 1. [Kick-Off : 종합 축구 매칭 및 구장 예약 플랫폼]([[https://github.com/사용자계정/Kick-Off](https://github.com/Kick-Off-SIST/Kick-Off)](https://github.com/Kick-Off-SIST/Kick-Off))
 > **Spring 기반의 사용자 간 매칭, 구장 예약, E-commerce 기능이 통합된 대규모 웹 서비스 (팀 프로젝트)**
 * **Key Achievements**:
   - **복잡한 비즈니스 로직 구현**: 팀/개인 단위의 매치(Match) 시스템, 구장 예약(Reserve), 쇼핑몰 장바구니(Cart) 및 결제(Order)에 이르는 통합 데이터 트랜잭션 설계 및 구현.
