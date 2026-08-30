@@ -57,10 +57,10 @@
   </p>
 
 * **Core Skills**
-- **Spring Framework Mastery**: IoC/DI 컨테이너의 라이프사이클을 이해하고, XML 설정 방식부터 Annotation 기반의 Spring Boot 자동 설정까지 프레임워크의 진화 과정을 체득하여 활용할 수 있습니다.
-- **Architecture & AOP**: MVC 패턴 기반의 완벽한 계층 분리(Controller-Service-DAO)를 구현하며, AOP(관점 지향 프로그래밍)를 활용해 공통 관심사(로깅, 트랜잭션 등)를 분리하는 모듈화 설계 역량을 갖추고 있습니다.
-- **Database & ORM**: RDBMS(Oracle) 환경에서의 복잡한 엔티티(Match, Reserve, Order 등) 관계 설계 및 제약조건 활용 경험이 있으며, MyBatis를 활용한 동적 쿼리 작성과 데이터베이스 아키텍처 고도화에 능숙합니다.
-- **Real-time & API Integration**: WebSocket을 활용한 실시간 양방향 통신(채팅 등) 서버 구현 및 Proxy 패턴을 이용한 외부 미디어(YouTube, News) API 연동 데이터 처리 경험이 있습니다.
+  - **Spring Framework Mastery**: IoC/DI 컨테이너의 라이프사이클을 이해하고, XML 설정 방식부터 Annotation 기반의 Spring Boot 자동 설정까지 프레임워크의 진화 과정을 체득하여 활용할 수 있습니다.
+  - **Architecture & AOP**: MVC 패턴 기반의 완벽한 계층 분리(Controller-Service-DAO)를 구현하며, AOP(관점 지향 프로그래밍)를 활용해 공통 관심사(로깅, 트랜잭션 등)를 분리하는 모듈화 설계 역량을 갖추고 있습니다.
+  - **Database & ORM**: RDBMS(Oracle) 환경에서의 복잡한 엔티티(Match, Reserve, Order 등) 관계 설계 및 제약조건 활용 경험이 있으며, MyBatis를 활용한 동적 쿼리 작성과 데이터베이스 아키텍처 고도화에 능숙합니다.
+  - **Real-time & API Integration**: WebSocket을 활용한 실시간 양방향 통신(채팅 등) 서버 구현 및 Proxy 패턴을 이용한 외부 미디어(YouTube, News) API 연동 데이터 처리 경험이 있습니다.
 
 ---
 
