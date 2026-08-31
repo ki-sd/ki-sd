@@ -120,4 +120,4 @@
 ---
 
 ### GitHub Stats
-![Your GitHub stats](https://github-readme-stats-sigma-five.vercel.app/api?username=ki-sd&show_icons=true&theme=tokyonight&cache_seconds=86400)
+![Your GitHub stats](github-readme-stats-ten-wine-96.vercel.app/api?username=ki-sd&show_icons=true&theme=tokyonight&cache_seconds=86400)
