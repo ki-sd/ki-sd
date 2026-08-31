@@ -22,22 +22,31 @@
   <p>
     <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?style=flat-square&logo=springboot&logoColor=white" style="vertical-align: middle;">
     <img src="https://img.shields.io/badge/Spring_Framework-6DB33F?style=flat-square&logo=spring&logoColor=white" style="vertical-align: middle;">
+    <img src="https://img.shields.io/badge/Spring_Security-6DB33F?style=flat-square&logo=springsecurity&logoColor=white" style="vertical-align: middle;">
     <img src="https://img.shields.io/badge/Vue.js-4FC08D?style=flat-square&logo=vuedotjs&logoColor=white" style="vertical-align: middle;">
+    <img src="https://img.shields.io/badge/Pinia-FFE56FFF?style=flat-square&logo=pinia&logoColor=black" style="vertical-align: middle;">
     <img src="https://img.shields.io/badge/Servlet%2FJSP-007396?style=flat-square&logo=java&logoColor=white" style="vertical-align: middle;">
-    <img src="https://img.shields.io/badge/MyBatis_3.5-000000?style=flat-square" style="vertical-align: middle;">
+  </p>
+
+* **Data Access & Message Queue**
+  <p>
     <img src="https://img.shields.io/badge/JPA-59666C?style=flat-square&logo=hibernate&logoColor=white" style="vertical-align: middle;">
+    <img src="https://img.shields.io/badge/MyBatis_3.5-000000?style=flat-square" style="vertical-align: middle;">
+    <img src="https://img.shields.io/badge/STOMP-000000?style=flat-square&logo=socketdotio&logoColor=white" style="vertical-align: middle;">
+    <img src="https://img.shields.io/badge/Apache_Kafka-231F20?style=flat-square&logo=apachekafka&logoColor=white" style="vertical-align: middle;">
   </p>
 
 * **DevOps & Infrastructure**
   <p>
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white" style="vertical-align: middle;">
-    <img src="https://img.shields.io/badge/Docker_Compose-2496ED?style=flat-square&logo=docker&logoColor=white" style="vertical-align: middle;">
+    <img src="https://img.shields.io/badge/Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white" style="vertical-align: middle;">
     <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=flat-square&logo=githubactions&logoColor=white" style="vertical-align: middle;">
     <img src="https://img.shields.io/badge/Amazon_EC2-FF9900?style=flat-square&logo=amazonec2&logoColor=white" style="vertical-align: middle;">
   </p>
 
 * **Database**
   <p>
+    <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" style="vertical-align: middle;">
     <img src="https://img.shields.io/badge/Oracle_21c-F80000?style=flat-square&logo=oracle&logoColor=white" style="vertical-align: middle;">
   </p>
 
